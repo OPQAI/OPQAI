@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### <div align="center">🔥 I'm OPQ, a developer 👨‍💻 working remotely since 2017 🚀</div>
 
-![snake](./assets/github-contribution-grid-snake.svg)
+![snake](./github-contribution-grid-snake.svg)
 
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator) -->
 
@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=OPQAI)
 ![](https://img.shields.io/github/stars/OPQAI?color=fefb7b&logo=Undertale)
 ![](https://img.shields.io/github/followers/OPQAI?color=27da6b&logo=Handshake)
-![Visitor Count](https://profile-counter.glitch.me/OPQAI/count.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://git.io/typing-svg)
 
@@ -137,7 +136,7 @@ Here are some ideas to get you started:
 
 ## 💻 Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OPQAI&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=OPQAI&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 <br/>
 
