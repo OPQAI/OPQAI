@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am OPQ.
+
+I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
 <!--
 **OPQAI/OPQAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,33 +18,65 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>
 
-### <div align="center">I'm OPQ, a developer 👨‍💻 working remotely since 2017 🚀</div>  
-  
+### <div align="center">🔥 I'm OPQ, a developer 👨‍💻 working remotely since 2017 🚀</div>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+![snake](./assets/github-contribution-grid-snake.svg)
 
-- 🌱 I’m currently learning MySQL and Python.  
-  
+<!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator) -->
 
-- ❓ Ask me about anything related to Frontend and related technologies  
-  
+- 🚀 I use daily:
+  JavaScript、
+  Vue、
+  Git、
+  Shell、
+  Nginx、
+  Webpack、
+  NPM、
+  Postman、
+  Docker、
+  Jenkins.
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 💻 I work using:
+  VS Code、
+  GoLand、
+  Gitee、
+  GitHub、
+  GitLab、
+  Linux、
+  Git Extensions.
 
-<br/>  
+- ⚙️ I also use and work:
+  Golang、
+  React Native、
+  PostgreSQL、
+  HTML5、
+  CSS.
 
+- 🌱 I’m currently learning MySQL and Python.
 
-## My Skill Set  
+- ❓ Ask me about anything related to Frontend and related technologies
+
+- ⚡ Fun fact: I use tabs over spaces
+
+<br/>
+
+## Welcome
+
+![](https://visitor-badge.laobi.icu/badge?page_id=OPQAI)
+![](https://img.shields.io/github/stars/OPQAI?color=fefb7b&logo=Undertale)
+![](https://img.shields.io/github/followers/OPQAI?color=27da6b&logo=Handshake)
+![Visitor Count](https://profile-counter.glitch.me/OPQAI/count.svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://git.io/typing-svg)
+
+## 🧰 My Skill Set
+
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -62,9 +96,8 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -78,9 +111,8 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -89,48 +121,26 @@ Here are some ideas to get you started:
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
+## 😋 Connect with me
 
-## Connect with me  
 <div align="center">
 <a href="https://github.com/OPQAI" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
+## 💻 Github Stats
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OPQAI&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OPQAI&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-<br/>  
+<br/>
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=OPQAI&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
